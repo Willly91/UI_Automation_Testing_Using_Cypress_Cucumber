@@ -1,0 +1,72 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Registration Page",
+    "line": 1,
+    "id": "registration-page",
+    "tags": [],
+    "uri": "Registration.feature",
+    "elements": [
+      {
+        "id": "registration-page;valid-registration",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Valid Registration",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "Go to Website URL",
+            "result": {
+              "status": "passed",
+              "duration": 1294000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "Go to Registration Page",
+            "result": {
+              "status": "passed",
+              "duration": 1732000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 6,
+            "name": "Enter Valid Cradentials",
+            "result": {
+              "status": "passed",
+              "duration": 2300000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 7,
+            "name": "Press Register Button",
+            "result": {
+              "status": "passed",
+              "duration": 927000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 8,
+            "name": "Check Registration Successfuly",
+            "result": {
+              "status": "passed",
+              "duration": 24000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

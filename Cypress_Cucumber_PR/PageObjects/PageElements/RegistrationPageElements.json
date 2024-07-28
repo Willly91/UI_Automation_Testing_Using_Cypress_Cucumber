@@ -1,0 +1,18 @@
+{
+    "RegistraionPage_Locators": {
+        "Locator_RegisterButton_HomePage": ".ico-register"
+        ,"Locator_Gender": "#gender-male"
+        ,"Locator_Firstname": "#FirstName"
+        ,"Locator_Lastname": "#LastName"
+        ,"Locator_Day": "[name='DateOfBirthDay']"
+        ,"Locator_Month": "[name='DateOfBirthMonth']"
+        ,"Locator_Year": "[name='DateOfBirthYear']"
+        ,"Locator_Email": "#Email"
+        ,"Locator_CompanyName": "#Company"
+        ,"Locator_Password": "#Password"
+        ,"Locator_ConfirmPassword": "#ConfirmPassword"
+        ,"Locator_RegisterButton": "#register-button"
+        ,"Locator_Successfuly": ".result"
+        ,"Locator_Failed": ".message-error.validation-summary-errors"
+    }
+}
